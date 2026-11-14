@@ -7,7 +7,7 @@
     <a href="https://jovsarbolante.github.io/">Portfolio Website</a> •
     <a href="https://www.linkedin.com/in/jovilyn-arbolante-aa75aa379/">LinkedIn</a> •
     <a href="mailto:jovas.arbolante@gmail.com">Email</a> •
-    Pasay City, Metro Manila, Philippines (Asia/Manila • UTC+8)
+    Las Piñas City, Metro Manila, Philippines (Asia/Manila • UTC+8)
   </p>
 </div>
 
